@@ -12,12 +12,15 @@
 
 - **Programming Languages:**  
   Python 🐍 · Java ☕ · C/C++ 💻
+  
 - **Data & DL Frameworks:**  
-  NumPy 🧮 · Pandas 🐼 · Jupyter Notebooks 📓  
-  TensorFlow ⚙️ · PyTorch 🔥 · scikit-learn 🎓
+  NumPy 🧮 · Pandas 🐼 · Jupyter Notebooks 📓 · TensorFlow ⚙️ · PyTorch 🔥 · scikit-learn 🎓
+  
 - **Databases & Storage:**  
   MySQL 🗄️ · SQLite 📦
-- **MLOps & Deployment:**  
+  
+- **MLOps & Deployment:**
+
 - **Hardware & Vision Devices:**  
   Basler area & line-scan cameras 📷 · Keyence line-scan lasers 🌟
 
