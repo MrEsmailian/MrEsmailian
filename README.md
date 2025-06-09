@@ -12,19 +12,14 @@
 
 - **Programming Languages:**  
   Python 🐍 · Java ☕ · C/C++ 💻
-
 - **Data & DL Frameworks:**  
   NumPy 🧮 · Pandas 🐼 · Jupyter Notebooks 📓  
   TensorFlow ⚙️ · PyTorch 🔥 · scikit-learn 🎓
-
 - **Databases & Storage:**  
   MySQL 🗄️ · SQLite 📦
-
 - **MLOps & Deployment:**  
-  Designing end-to-end pipelines for scalable model training, serving, and monitoring ⛓️
-
 - **Hardware & Vision Devices:**  
-  Basler area & line-scan cameras 📷 · Keyence line-scan lasers 🌟 · other imaging sensors
+  Basler area & line-scan cameras 📷 · Keyence line-scan lasers 🌟
 
 ---
 
