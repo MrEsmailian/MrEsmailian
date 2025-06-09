@@ -1,7 +1,3 @@
-<p align="center">
-  👋 Hello, and welcome to my GitHub profile!
-</p>
-
 <h3 align="center">
   🤖 AI Developer & MLOps Specialist at <a href="https://binapardazshargh.ir/">BinaPardaz</a>
 </h3>
