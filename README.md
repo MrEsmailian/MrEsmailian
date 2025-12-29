@@ -1,5 +1,5 @@
 <h3 align="center">
-  🤖 AI Developer & MLOps Specialist at <a href="https://binapardazshargh.ir/">BinaPardaz</a>
+  🤖 Master's student in Artificial Intelligence at Amirkabir University of Tehran
 </h3>
 
 ---
@@ -24,8 +24,8 @@
 
 ## 📂 Currently Working On
 
-**Segment Defect Detection System**  
-Building a deep-learning inspection pipeline for an Iran Khodro parts manufacturer—automating defect segmentation to boost accuracy and throughput.  
+**Working On iAAA competition**  
+Building a deep-network on CT-scan images of breast cancer  
 
 ---
 
@@ -33,18 +33,6 @@ Building a deep-learning inspection pipeline for an Iran Khodro parts manufactur
 
 **Reinforcement Learning**  
 Diving into RL fundamentals through hands-on experiments and tutorials—aiming to harness sequential decision-making for better predictive models in my next projects.
-
----
-
-## 🔍 AI Obsession
-
-I love crafting intelligent “creatures” from code—it’s my way of playing god in the digital realm! 🧠✨
-
----
-
-## 🎯 My Mission
-
-Continuously leveling up to become the best in my field, pushing AI boundaries one experiment at a time. 🏆🔥
 
 ---
 
