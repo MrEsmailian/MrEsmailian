@@ -24,15 +24,15 @@
 
 ## 📂 Currently Working On
 
-**Working On iAAA competition**  
+**🏃Working On iAAA competition**  
 Building a deep-network on CT-scan images of breast cancer  
 
 ---
 
-## 📚 Learning
+## 📚 Research
 
-**Reinforcement Learning**  
-Diving into RL fundamentals through hands-on experiments and tutorials—aiming to harness sequential decision-making for better predictive models in my next projects.
+**🧬Dopamine Mechanism**
+There are some new studies going on in a MIT lab on how actually dopamine works and I'm currently working on that. I will be glad to hear from any of you that could help me find more information on this research.
 
 ---
 
